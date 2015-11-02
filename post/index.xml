@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ifels&#39;s blog</title>
-    <link>http://121.40.133.140:5050/post/</link>
+    <link>http://ifels.github.io:80/post/</link>
     <description>Recent content in Posts on ifels&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://121.40.133.140:5050/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ifels.github.io:80/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lua OOP 实现</title>
-      <link>http://121.40.133.140:5050/post/lua-opp/</link>
+      <link>http://ifels.github.io/post/lua-opp/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://121.40.133.140:5050/post/lua-opp/</guid>
+      <guid>http://ifels.github.io/post/lua-opp/</guid>
       <description>
 
 &lt;p&gt;使用lua 模拟面向对象编程.&lt;/p&gt;
